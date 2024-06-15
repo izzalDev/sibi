@@ -275,10 +275,10 @@ Use this space to list resources you find helpful and would like to give credit 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
     <a href="https://www.nihbuatjajan.com/_qviyxykh" target="_blank">
     <img src="https://d4xyvrfd64gfm.cloudfront.net/buttons/default-cta.png" alt="Nih buat jajan" style="height: 40px !important;" >
-    &nbsp;&nbsp;&nbsp;&nbsp;</a>
+    </a><span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <a href="https://trakteer.id/izzalDev/tip" target="_blank">
-    <img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png?date=18-11-2023" height="40" style="border:0px;height:40px;" alt="Trakteer Saya">&nbsp;&nbsp;&nbsp;&nbsp;
-    </a>
+    <img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png?date=18-11-2023" height="40" style="border:0px;height:40px;" alt="Trakteer Saya">
+    </a><span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <a href='https://ko-fi.com/B0B2ZCON1' target='_blank'>
     <img height='36' style='border:0px;height:40px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
     </a>
